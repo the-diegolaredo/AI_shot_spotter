@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+audio_detection_log.txt
+
+# Model files (large files - uncomment if you want to exclude)
+# *.pb
+# *.h5
+# *.ckpt
+# *.pt
+# *.tflite
+
+# Audio/Media (uncomment if files are too large)
+# *.wav
+# *.mp3
+# *.mp4
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
