@@ -125,7 +125,7 @@ This confirms the WM8960 Audio HAT driver is successfully installed and ready to
 ## Project Structure
 
 ```text
-AI-gunshot-detection-system/
+AI_shot_spotter/
 ├── yamnet_audio_classification/
 │ ├── audio_detect.py      # Main detection script
 │ ├── config.py            # Configuration file
@@ -160,8 +160,8 @@ git version 2.xx.x
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/hlaredo/AI-gunshot-detection-system.git
-cd AI-gunshot-detection-system
+git clone https://github.com/the-diegolaredo/AI_shot_spotter.git
+cd AI_shot_spotter
 ```
 
 2. **Create and activate a virtual environment**
@@ -368,7 +368,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 🐛 Issues
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/hlaredo/AI-gunshot-detection-system/issues) on GitHub.
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/the-diegolaredo/AI_shot_spotter/issues) on GitHub.
 
 ---
 
